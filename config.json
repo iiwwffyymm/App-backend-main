@@ -2,7 +2,7 @@
   "name": "config",
   "description": "configuration for components",
   "license": "MIT",
-  "versid": "id_eTJ6UGtUUFZqL0RJbXQrYTdlYWxCZz09",
+  "versid": "id_TnRXUDV0WVJ3Uy96M2ZiR3RoYUwzdz09",
   "scripts": {
     "postinstall": "node tools/postinstall/apply-patches.js",
     "build": "ts-node --project scripts/tsconfig.json ./scripts/build-packages-dist.ts",
